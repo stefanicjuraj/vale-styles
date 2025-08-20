@@ -1,0 +1,7 @@
+extends: existence
+message: "Duplicate: '%s'"
+level: warning
+scope: text
+ignorecase: true
+tokens:
+  - '\b([A-Za-z]+)\s+\1\b'
