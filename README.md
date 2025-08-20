@@ -1,4 +1,4 @@
-# vale-styles
+# Vale Styles
 
 Collection of custom [Vale Styles](https://vale.sh/docs/styles).
 
