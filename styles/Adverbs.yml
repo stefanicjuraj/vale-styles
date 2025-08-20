@@ -1,0 +1,6 @@
+extends: existence
+message: "Adverb: '%s'"
+level: suggestion
+scope: text
+tokens:
+  - '\b\w+ly\b'
