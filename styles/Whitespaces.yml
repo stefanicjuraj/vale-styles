@@ -1,0 +1,8 @@
+extends: existence
+message: "Whitespace"
+level: suggestion
+scope: raw
+nonword: true
+tokens:
+  - '(?m)[ \t]+$'
+  - '(?m)^[ \t]+'
