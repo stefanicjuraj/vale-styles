@@ -1,0 +1,7 @@
+extends: existence
+message: "Empty heading."
+level: warning
+scope: raw
+nonword: true
+tokens:
+  - '^\s*#{1,6}\s*$'
