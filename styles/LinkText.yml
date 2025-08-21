@@ -1,0 +1,9 @@
+extends: existence
+message: "Describe link text: '%s'."
+level: suggestion
+scope: raw
+ignorecase: true
+nonword: true
+tokens:
+  - '(?<!\!)\[\s*(?:here|click here|see|view|read)\s*\]\([^)]+\)'
+  - '(?<!\!)\[\s*(?:here|click here|see|view|read)\s*\]\s*\[[^\]]*\]'
