@@ -1,0 +1,24 @@
+extends: substitution
+message: "Full keyboard shortcut: '%s'"
+level: suggestion
+ignorecase: false
+action:
+  name: replace
+swap:
+  "Cmd": "Command"
+  "Ctrl": "Control"
+  "Del": "Delete"
+  "Esc": "Escape"
+  "Alt + ": "Alt+"
+  "Cmd + ": "Command+"
+  "Command + ": "Command+"
+  "Control + ": "Control+"
+  "Ctrl + ": "Control+"
+  "Del + ": "Delete+"
+  "Delete + ": "Delete+"
+  "Esc + ": "Escape+"
+  "Escape + ": "Escape+"
+  "Option + ": "Option+"
+  "Shift + ": "Shift+"
+  "Ent": "Enter"
+  "Return": "Return"
