@@ -9,4 +9,5 @@ Collection of custom [Vale Styles](https://vale.sh/docs/styles).
 - [Link Text](styles/LinkText.yml)
 - [Merge Conflicts](styles/MergeConflicts.yml)
 - [Numbers](styles/Numbers.yml)
+- [Number at Start of Sentence](styles/NumberAtStartOfSentence.yml)
 - [Whitespaces](styles/Whitespaces.yml)
