@@ -3,6 +3,7 @@
 Collection of custom [Vale Styles](https://vale.sh/docs/styles).
 
 - [Adverbs](styles/Adverbs.yml)
+- [Ambiguous Quantifiers](styles/AmbiguousQuantifiers.yml)
 - [Device Agnosticism](styles/DeviceAgnosticism.yml)
 - [Directional Language](styles/DirectionalLanguage.yml)
 - [Duplicates](styles/Duplicates.yml)
