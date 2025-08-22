@@ -10,4 +10,5 @@ Collection of custom [Vale Styles](https://vale.sh/docs/styles).
 - [Merge Conflicts](styles/MergeConflicts.yml)
 - [Numbers](styles/Numbers.yml)
 - [Number at Start of Sentence](styles/NumberAtStartOfSentence.yml)
+- [Weasel Words](styles/WeaselWords.yml)
 - [Whitespaces](styles/Whitespaces.yml)
