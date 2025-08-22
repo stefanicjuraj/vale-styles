@@ -1,0 +1,15 @@
+extends: substitution
+message: "Device-specific language: '%s'"
+level: warning
+ignorecase: true
+action:
+  name: replace
+swap:
+  "click": select
+  "choose": select
+  "hit": select
+  "long press": select and hold
+  "pinch": zoom out
+  "press": select
+  "spread": zoom in
+  "tap": select
