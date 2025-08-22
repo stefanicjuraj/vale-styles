@@ -1,0 +1,9 @@
+extends: existence
+message: "Directional language: '%s'"
+level: warning
+ignorecase: true
+tokens:
+  - above
+  - below
+  - left
+  - right
