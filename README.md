@@ -7,6 +7,7 @@ Collection of custom [Vale Styles](https://vale.sh/docs/styles).
 - [Directional Language](styles/DirectionalLanguage.yml)
 - [Duplicates](styles/Duplicates.yml)
 - [Empty Headings](styles/EmptyHeadings.yml)
+- [Keyboard Shortcuts](styles/KeyboardShortcuts.yml)
 - [Link Text](styles/LinkText.yml)
 - [Merge Conflicts](styles/MergeConflicts.yml)
 - [Numbers](styles/Numbers.yml)
