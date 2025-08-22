@@ -1,0 +1,28 @@
+extends: existence
+message: "Ambiguous quantifier: '%s'"
+level: warning
+scope: text
+ignorecase: true
+tokens:
+  - "a lot"
+  - "lots"
+  - "plenty"
+  - "handful"
+  - "numerous"
+  - "countless"
+  - "innumerable"
+  - "several"
+  - "many"
+  - "few"
+  - "dozens"
+  - "scores"
+  - "tons"
+  - "heaps"
+  - "loads"
+  - "variety"
+  - "range"
+  - "assortment"
+  - "handful of"
+  - "bunch"
+  - "couple"
+  - "some"
